@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshuvashisht878&show_icons=true&locale=en" alt="himanshuvashisht878" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuvashisht878&" alt="himanshuvashisht878" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuvashisht878&" alt="himanshuvashisht878" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/himanshu878"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himanshu878" /></a></p><br><br>
