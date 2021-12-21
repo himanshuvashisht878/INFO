@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshuvashisht878" alt="himanshuvashisht878" /></a> </p>
 
-- 🔭 I’m currently working on [CNC Motherboard](https://github.com/CuriousMotor/Onyx-Stepper-Motherboard)
+- 🔭 I’m currently working on **[CNC Motherboard](https://github.com/CuriousMotor/Onyx-Stepper-Motherboard)**
 
 - 🌱 I’m currently learning **Python,Web Dev**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **HV9238@bennett.edu.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13-3aOYP-8TDulcwprh33e59_XWFKkhyO/view?usp=sharing)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/13-3aOYP-8TDulcwprh33e59_XWFKkhyO/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
