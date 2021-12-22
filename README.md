@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Vashisht</h1>
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/65850648?v=4" width="260" >
-</p>
+
 <h3 align="center">A passionate PCB designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuvashisht878&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuvashisht878" /> </p>
@@ -29,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuvashisht878&show_icons=true&locale=en&layout=compact" alt="himanshuvashisht878" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuvashisht878&show_icons=true&locale=en&layout=compact" alt="himanshuvashisht878" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuvashisht878&show_icons=true&locale=en&layout=compact" alt="himanshuvashisht878" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuvashisht878&" alt="himanshuvashisht878" /></p>
 <h3 align="left">Support:</h3>
