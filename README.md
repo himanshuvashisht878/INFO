@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Vashisht</h1>
 
-<h3 align="center">A passionate PCB designer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuvashisht878&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuvashisht878" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[CNC Motherboard](https://github.com/CuriousMotor/Onyx-Stepper-Motherboard)**
 
-- 🌱 I’m currently learning **Python,Web Dev**
+- 🌱 I’m currently learning **Python,SQL,DBMS**
 
 - 💬 Ask me about **Kicad,Arduino,Heroku,Crypto**
 
