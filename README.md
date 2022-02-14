@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshuvashisht878" alt="himanshuvashisht878" /></a> </p>
 
-- 🔭 I’m currently working on **[CNC Motherboard](https://github.com/CuriousMotor/Onyx-Stepper-Motherboard)**
+- 🔭 I’m currently working on **[Amazon Scrapper]**
 
 - 🌱 I’m currently learning **Python,SQL,DBMS**
 
-- 💬 Ask me about **Kicad,Arduino,Heroku,Crypto**
+- 💬 Ask me about **Python, SQL, DBMS, Power BI**
 
 - 📫 How to reach me **HV9238@bennett.edu.in**
 
