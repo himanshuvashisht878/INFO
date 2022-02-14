@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **HV9238@bennett.edu.in**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/13-3aOYP-8TDulcwprh33e59_XWFKkhyO/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://www.himanshu-vashisht.com/docs/Resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
